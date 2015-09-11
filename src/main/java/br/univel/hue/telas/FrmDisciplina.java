@@ -163,7 +163,7 @@ public class FrmDisciplina extends JFrame {
 
 					if (response.getStatus() != 201 ) {
 						throw new RuntimeException(
-								"Failed : HTTP error code : "
+								"Failed : Deu pau: "
 										+ response.getStatus());
 					} 
 
